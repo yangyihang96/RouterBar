@@ -1,0 +1,774 @@
+{
+ "documents": {
+  "EULA": [
+   {
+    "bold": true,
+    "depth": 0,
+    "html": "最终用户许可协议(以下简称“EULA”)</u></b>",
+    "kind": "title",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "本最终用户许可协议(以下简称“EULA”)系 ASUSTeK Computer Inc. 代表其本身及其关联企业(以下简称“ASUS”)与作为用户的贵方(以下简称“您”)就使用 ASUS 所生产、制造或销售的网络产品(以下简称“产品”)及 ASUS 软件(以下简称“软件”)所订立的有效且具约束力的协议。除非与 ASUS 另有明确协议，否则您承认并同意本协议条款构成与您订立的任何形式合约的一部分。当您开始使用本产品，或安装并继续使用本软件时，即表示您已阅读并理解本协议的条款及其任何新版本，并同意受其约束。您声明您可以合法签署本协议。当您使用本软件或产品时，根据您所居住国家的法律，您应为成年人。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": true,
+    "depth": 0,
+    "html": "软件许可",
+    "kind": "item",
+    "links": [],
+    "marker": "1."
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "许可",
+    "kind": "item",
+    "links": [],
+    "marker": "1.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "根据本协议的条款，ASUS 特此授予您有限的、个人的、非商业的、非专属的许可，仅允许您使用产品或嵌入在产品中的软件。本授权许可不得再授权予他人，且不得转让予他人或实体，除非您将包含本软件的完整产品的所有权转让予他人或实体，或您将使用本软件产品的所有权转让予他人或实体，且您永久转让本授权许可协议下的所有权利，且不保留本软件的任何完整或部分副本，且接受者同意本授权许可协议的条款。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.1.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "您承认 ASUS 并未向您提供本软件的永久许可，并同意 ASUS 保留在下列情况下随时终止本软件许可的权利且无需承担任何责任：(i) 您未遵守本协议的任何条款；或 (ii) ASUS 决定不在特定国家/地区提供本软件，或 ASUS 基于商业考虑单方面决定无法继续提供本软件。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.1.2"
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "软件",
+    "kind": "item",
+    "links": [],
+    "marker": "1.2"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "<b>软件</b>指由 ASUS 提供于适用产品中或与适用产品搭配使用之软件或固件，包括但不限于任何未来的程序修正、更新、升级及修改版本。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.2.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "本软件可能随附其他 ASUS 或第三方所制作的软件，此类软件根据 www.opensource.org/licenses 所列的一种或多种自由开源软件授权条款授权。此类开源软件（“FOSS”），仅根据各该软件所附许可协议或著作权声明，或软件所附的 FOSS 许可证文件中的条款提供给您。本 EULA 条款不适用于此类开源软件。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.2.2"
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "限制条款",
+    "kind": "item",
+    "links": [],
+    "marker": "1.3"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "您不得修改、编译、反向工程、反编译解密或反汇编本软件，或允许或诱导上述行为，除非直接适用的法律禁止执行上述行为。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.3.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "您承认并同意，若您未遵守本 1.3 部分之限制，ASUS 保留随时终止软件授权及终止本产品全部或部分功能之权利。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.3.2"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "若本软件所包含的相关 FOSS 之许可协议条款或著作权声明规定您可以修改、编译、逆向工程、解编、解密或反向汇编本软件，则您可依据该 FOSS 之条款进行修改、编译、逆向工程、解编、解密或反向汇编。但是，本软件经您修改、编译后，ASUS 将不对该软件及该软件所嵌入的产品承担任何责任（包括但不限于保修责任）。",
+    "kind": "item",
+    "links": [],
+    "marker": "1.3.3"
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "软件的更新",
+    "kind": "item",
+    "links": [],
+    "marker": "1.4"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "您了解并同意，为确保本产品的安全性及法律/法规的符合性，ASUS 保留在未经您同意的情况下随时强制更新软件的权利，以解决重大安全问题或符合法律/法规的要求。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "产品的使用",
+    "kind": "item",
+    "links": [],
+    "marker": "2."
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "产品说明",
+    "kind": "item",
+    "links": [],
+    "marker": "2.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "本产品的功能可能因销售地区的不同而略有差异。在购买产品时，您应自行确认产品的规格和功能。",
+    "kind": "item",
+    "links": [],
+    "marker": "2.1.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "本产品的保修以产品所附保修卡及保修条款为准。您承认并同意，ASUS 仅在保修期满后为产品提供有限的有偿维修服务，相关有偿维修服务的条件按照 ASUS 的规定执行。",
+    "kind": "item",
+    "links": [],
+    "marker": "2.1.2"
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "限制条款",
+    "kind": "item",
+    "links": [],
+    "marker": "2.2"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "您应按照产品相关用户手册和说明使用产品，并应遵守本 EULA 的所有条款，不得将产品用于非法或不当目的。若 ASUS 发现您未遵守本 EULA 条款或非法或不正当使用本产品，ASUS 保留终止本产品全部或部分功能的权利。您应对非法或不当使用本产品负全部责任。",
+    "kind": "item",
+    "links": [],
+    "marker": "2.2.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "您承认并同意，ASUS 有权基于商业考虑，随时暂时或永久暂停、修改或终止本应用程序、服务和/或其任何功能，而不另行通知。",
+    "kind": "item",
+    "links": [],
+    "marker": "2.2.2"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "第三方产品及服务",
+    "kind": "item",
+    "links": [],
+    "marker": "3."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "在使用产品时，您可能会使用或获得第三方提供的产品或服务。您承认并同意这些产品和服务由第三方提供，与 ASUS 无关。ASUS 不对任何第三方提供的产品或服务提供任何明示或默示的担保。您应自行承担使用第三方产品或服务的所有相关风险。ASUS 不对任何第三方提供的产品、服务或/和优惠负责。若您对于第三方所提供的产品、服务和/或优惠有任何主张或要求，您应该且同意自行与该第三方联络并进行协商。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "修订权",
+    "kind": "item",
+    "links": [],
+    "marker": "4."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "您承认并同意 ASUS 保留随时修改本 EULA 条款的权利。ASUS 将在 ASUS 软件/Web GUI 界面上公布此类修改。若您在任何修改公告后继续使用本软件及/或产品，即表示您已接受这些修改，并同意受修改后条款的约束。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "保密",
+    "kind": "item",
+    "links": [],
+    "marker": "5."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "您有义务保护并不得向任何第三方披露或导致披露本软件和产品的全部或部分机密信息，包括但不限于任何形式的商业秘密、版权材料和知识产权。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "知识产权（“IP 权利”）",
+    "kind": "item",
+    "links": [],
+    "marker": "6."
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "您承认并同意，本软件及产品的所有知识产权、所有权及利益，或由本软件及产品所产生的所有知识产权、所有权及利益，均为 ASUS 或其授权人的专属财产，且应维持为 ASUS 或其授权人的专属财产。本 EULA 并不打算将任何此等知识产权转移给您。任何未经授权使用知识产权的行为，均属违反本 EULA 及知识产权法律的行为，包括但不限于著作权法及商标法。",
+    "kind": "item",
+    "links": [],
+    "marker": "6.1"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "若您透过本软件向 ASUS 传送任何信息、数据、想法、概念或技术（个人信息除外）（下称“回馈”），即表示您承认并同意：(i) 您的回馈不得包含机密或专属信息；(ii) ASUS 对回馈不负任何明示或默示的保密义务；(iii) ASUS 有权以任何目的、任何方式，在全球范围内自行决定使用或披露回馈意见；(iv )您的回馈将归属 ASUS 所有，ASUS 对您不承担任何义务；且 (v) 您无权从下列机构获得任何形式的赔偿或补偿。",
+    "kind": "item",
+    "links": [],
+    "marker": "6.2"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "期限和终止",
+    "kind": "item",
+    "links": [],
+    "marker": "7."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "本 EULA 自您开始使用产品或安装软件之日起生效。您可以随时终止本许可，方法是停止使用产品和软件，并从产品中删除软件。若本公司认为您未遵守本 EULA 的任何规定，您的权利将被终止，无须 ASUS 进行事先通知。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "免责声明与责任限制",
+    "kind": "item",
+    "links": [],
+    "marker": "8."
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "对本软件的责任",
+    "kind": "item",
+    "links": [],
+    "marker": "8.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "您确认本软件按“现状”提供。本软件的质量和性能的全部风险由您承担，包括但不限于所有必要服务和维修的相关费用。在法律允许的范围内，ASUS 不对本软件或根据本 EULA 或为本软件提供的任何其他信息或文档作出任何明示或暗示的保证，包括但不限于任何适销性或特定目的适用性或非侵权保证，或因使用或执行过程而产生的任何保证。ASUS 也不保证使用本软件可能获得的结果或通过本软件获得的任何信息的准确性或可靠性。某些司法管辖区不允许排除某些保证或限制或排除对某些损害的责任。因此，上述某些免责声明和责任限制可能不适用于您。",
+    "kind": "item",
+    "links": [],
+    "marker": "8.1.1"
+   },
+   {
+    "bold": false,
+    "depth": 2,
+    "html": "在任何情况下，ASUS、其授权人或其各自的任何主管、董事、员工、代理人或关联公司，对于因本 EULA 或使用或无法使用本软件或其任何部分所引起或与之相关的任何衍生性、附带性、直接、间接、特殊、惩罚性或其他损害（包括但不限于利润损失、中断、信息或数据损失或其他金钱损失），均不承担任何责任，即使 ASUS 已被告知发生此类损害的可能性。某些司法管辖区不允许排除某些保证或限制或排除对某些损害的责任。因此，上述某些免责声明和责任限制可能不适用于您。",
+    "kind": "item",
+    "links": [],
+    "marker": "8.1.2"
+   },
+   {
+    "bold": true,
+    "depth": 1,
+    "html": "对产品的责任",
+    "kind": "item",
+    "links": [],
+    "marker": "8.2"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "在任何情况下，ASUS、其授权人或其任何主管、董事、员工、代理人或关联公司，对于因使用或无法使用本产品或其任何部分所导致或与之相关的任何衍生性、偶发性、间接性、特殊性、惩罚性损害（包括但不限于利润损失、中断、信息或数据损失或其他金钱损失），均不承担任何责任，即使 ASUS 已被告知发生此类损害的可能性。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "在不违反 8.1 及 8.2 部分规定的情况下，并在相关法令允许的范围内，ASUS 对于您与 ASUS 间的任何协议或订单所产生的损害赔偿责任总额最高不超过 100 美元。某些司法管辖区不允许排除某些保证或限制或排除对某些损害的责任。因此，上述某些免责声明和责任限制可能不适用于您。",
+    "kind": "item",
+    "links": [],
+    "marker": "8.3"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "赔偿",
+    "kind": "item",
+    "links": [],
+    "marker": "9."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "您同意为 ASUS 及其关系企业、服务提供商、合作伙伴、经销商、授权人、主管、董事及员工辩护，并使其免于因您违反本 EULA 或任何适用法律或法规或第三方权利而导致的任何及所有损失、损害、责任及费用（包括合理的律师费及诉讼费用）。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "可分割性",
+    "kind": "item",
+    "links": [],
+    "marker": "10."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "如果本 EULA 的任何条款被有管辖权的法院认定为非法、无效或不可执行，则其余条款仍应完全有效，而非法、无效或不可执行的部分将被视为从本 EULA 中排除，并由法律允许的、反映双方对该部分的真实意图的新条款所取代。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "无默示放弃",
+    "kind": "item",
+    "links": [],
+    "marker": "11."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "ASUS 未行使或延迟行使或执行本 EULA 所规定的任何权利、权力或补救措施，均不应视为对该等权利、权力或补救措施的放弃，且任何单独或部分行使或执行此类权利、权力或补救措施的行为，均不得妨碍其他或进一步行使或执行此类权利、权力或补救措施，或行使或执行任何其他权利、权力或救济措施。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "适用法律和管辖权",
+    "kind": "item",
+    "links": [],
+    "marker": "12."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "您与 ASUS 之间的所有报价、订单确认、本 EULA 及销售关系，均应受 ASUS 所在地法律的管辖并依其解释，而不考虑其法律冲突原则。本协议双方因本 EULA、与本 EULA 有关或相关的一切争议、争执或分歧，应由双方友好协商解决。若无法解决争议、纠纷或分歧，双方同意接受 ASUS 所在地法院的管辖。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   }
+  ],
+  "PP2": [
+   {
+    "bold": true,
+    "depth": 0,
+    "html": "ASUS 隐私声明</u></b>",
+    "kind": "title",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "欢迎使用 ASUS 网络产品（下称“ASUS 产品”）的 ASUS 软件/Web GUI 界面（下称“本软件”/“本界面”）！",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "华硕会收集<span>个人资料</span>以运行并改进产品和/或服务。您可以前往“系统管理>政策”的隐私设置页面来更改这些个人资料的共享方式。",
+    "kind": "text",
+    "links": [
+     {
+      "title": "个人资料",
+      "url": "personal"
+     }
+    ],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "某些个人数据可能会因上述目的而与第三方共享。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "如果您选择<拒绝>，此应用程序或服务可能无法正常运行，因为某些基本功能需要个人数据。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "了解更多信息，请参阅 <a> 华硕隐私政策 </a>。",
+    "kind": "text",
+    "links": [
+     {
+      "title": "华硕隐私政策",
+      "url": "policy"
+     }
+    ],
+    "marker": ""
+   }
+  ],
+  "PP4": [
+   {
+    "bold": true,
+    "depth": 0,
+    "html": "ASUS 隐私声明</u></b>",
+    "kind": "title",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "欢迎使用 ASUS 网络产品（下称“ASUS 产品”）的 ASUS 软件/Web GUI/multi-site manager 界面（下称“本软件”/“本界面”）！",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "华硕会收集<span>个人资料</span>以运行并改进产品和/或服务。您可以前往“系统管理>政策”的隐私设置页面来更改这些个人资料的共享方式。",
+    "kind": "text",
+    "links": [
+     {
+      "title": "个人资料",
+      "url": "personal"
+     }
+    ],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "某些个人数据可能会因上述目的而与第三方共享。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "如果您选择<拒绝>，此应用程序或服务可能无法正常运行，因为某些基本功能需要个人数据。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "了解更多信息，请参阅 <a> 华硕隐私政策 </a>。",
+    "kind": "text",
+    "links": [
+     {
+      "title": "华硕隐私政策",
+      "url": "policy"
+     }
+    ],
+    "marker": ""
+   }
+  ],
+  "TM": [
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "使用 AiProtection 智能安全防护、家长管理（网页与 Apps 过滤）、流量分析、应用程序分析、带宽管理 Adaptive QoS/Game boost 以及网页浏览历史功能前，请先同意<a id=\"eula_url\" style=\"text-decoration:underline;\" target=\"_blank\">Trend Micro 最终用户许可协议</a>。",
+    "kind": "text",
+    "links": [
+     {
+      "title": "Trend Micro 最终用户许可协议",
+      "url": "tmeula"
+     }
+    ],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "请注意，AiProtection 智能安全防护、家长管理（网页与 Apps 过滤）、流量分析、应用程序分析、带宽管理 Adaptive QoS/Game boost 以及网页浏览历史功能将会收集您的信息。您了解并同意华硕对于您与 Trend Micro 之间的协议或者是 Trend Micro 所提供的服务内容不承担任何责任。如果您对 Trend Micro 收集信息的方法、过程亦或是如何使用您的信息存在疑虑,请参阅 Trend Micro 所发布之隐私权相关声明，或者请联络 Trend Micro 以获得更多细节。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "<a id=\"tm_eula_url\" style=\"text-decoration:underline;\" target=\"_blank\">TrendMicro 隐私权条款</a>",
+    "kind": "text",
+    "links": [
+     {
+      "title": "TrendMicro 隐私权条款",
+      "url": "https://nw-dlcdnet.asus.com/trend/tm_privacy"
+     }
+    ],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "<a id=\"tm_disclosure_url\" style=\"text-decoration:underline;\" target=\"_blank\">隐私和个人信息收集披露</a>",
+    "kind": "text",
+    "links": [
+     {
+      "title": "隐私和个人信息收集披露",
+      "url": "https://nw-dlcdnet.asus.com/trend/tm_pdcd"
+     }
+    ],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "如果您不想通过以上功能与 Trend Micro 分享信息，请通过此路径更改设置：路由器网页管理界面 > 高级设置 > 系统管理 > 隐私权。",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   }
+  ],
+  "personal2": [
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "为了向您提供以下功能，<b><u>点击“同意”即表示您同意共享与本软件/界面相关的 ASUS 产品的以下数据：</b></u>",
+    "kind": "item",
+    "links": [],
+    "marker": "1."
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "账户登录功能：为方便管理您的 ASUS 产品及相关服务（例如将您的 ASUS 产品绑定到您的帐户下），您可能需要向 ASUS 提供本软件的登录电子邮件地址。",
+    "kind": "item",
+    "links": [],
+    "marker": "(1)"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "ASUS 固件功能和安全升级、DDNS（用于使用动态或固定 IP 地址连接 ASUS 产品的动态域名系统）、允许本软件和某些第三方服务 (Alexa/谷歌助手/IFTTT) 远程连接您的 ASUS 产品的远程访问服务、用于在 ASUS 产品之间设置配置的备份/传输服务、多个 ASUS 产品的管理和推送通知服务：为了向您提供上述功能以及评估和改进 ASUS 服务并提高稳定性，您可能需要向 ASUS 提供您的 IP 地址、MAC 地址、DDNS 名称、制造国、产品名称、固件和软件型号版本、安全版本、硬件的生产日期和版本、固件更新数据（如固件更新的执行方式、时间和编号）、系统状态（如风扇、CPU、内存、闪存的使用状态和电压）、开机次数和时间、您用于连接 ASUS 产品的时间/网络/局域网端口、崩溃历史、产品名称和代码、ASUS 的安全事件次数、登录/使用状态、以及屏幕尺寸、语言设置和移动设备类型（例如 iOS 设备）。",
+    "kind": "item",
+    "links": [],
+    "marker": "(2)"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "第三方相关服务：",
+    "kind": "item",
+    "links": [],
+    "marker": "2."
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "Alexa/谷歌助手/IFTTT：如果您使用这些服务中的其中任何一项服务，即表示您同意 ASUS 出于将您的 ASUS 产品远程连接到这些服务的目的可以将您的 IP 地址和 Mac 地址共享给 Amazon.com Inc./Google Inc./ IFTTT Inc.。",
+    "kind": "item",
+    "links": [],
+    "marker": "(1)"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "用于推送通知功能的第三方软件开发工具包 (SDK)：为了向您提供上述服务，您须同意 ASUS 可以使用第三方开发的 SDK。我们可能会不时更改 SDK 列表，并通过本声明更新列表。以下是用于此功能的当前 SDK：百度云推送SDK，其数据收集声明由北京百度网讯科技有限公司发布，网址为 <a href=\"https://firebase.google.com/docs/android/play-data-disclosure\" target=\"_blank\">https://push.baidu.com/doc/guide/baidu_legal</a>。",
+    "kind": "item",
+    "links": [
+     {
+      "title": "https://push.baidu.com/doc/guide/baidu_legal",
+      "url": "https://firebase.google.com/docs/android/play-data-disclosure"
+     }
+    ],
+    "marker": "(2)"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "对于第三方提供的服务，请注意您的信息可能会被这些第三方收集。有关详情，请参阅第三方发布的隐私相关声明。",
+    "kind": "item",
+    "links": [],
+    "marker": "(3)"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "请注意：如果您点击下方的“拒绝”或通过本界面的“系统管理”页面禁止与 ASUS 共享第 1 段的上述数据，或者如果您是儿童，需要阻止 ASUS 收集上述数据，这可能会导致以下结果：",
+    "kind": "item",
+    "links": [],
+    "marker": "3."
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "无法更新至最新的固件版本，无法让您的 ASUS 产品获得最新的安全保护。但是，为了保护您的 ASUS 产品的安全并确保符合法律规定，仍将自动下载并安装需要解决重要安全问题或满足法律/法规要求的升级。在此情况下，ASUS 将收集您的 IP 地址、哈希 MAC 地址、制造国家、型号名称、固件和软件模块版本以及安全版本，这是 ASUS 对与本软件/界面相关的 ASUS 产品进行这些重要升级的必要数据。",
+    "kind": "item",
+    "links": [],
+    "marker": "(1)"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "如果没有第 1 段的上述数据来提供这些服务，第 1 段中列出的用于本软件/界面的功能可能无法正常工作。ASUS 产品的基本功能不会受到影响，例如互联网连接和存储在您的 ASUS 产品中的本地设置。",
+    "kind": "item",
+    "links": [],
+    "marker": "(2)"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "ASUS 致力于保护和尊重您的隐私；您可以随时访问此界面的“系统管理>政策”来启用/禁用与 ASUS 共享您的上述数据。要了解有关 ASUS 如何保护您隐私的更多信息，请访问 <a href=\"https://nw-dlcdnet.asus.com/support/forward.html?model=&type=Policy&lang=CN\" target=\"_blank\">ASUS 隐私政策</a>。",
+    "kind": "item",
+    "links": [
+     {
+      "title": "ASUS 隐私政策",
+      "url": "https://nw-dlcdnet.asus.com/support/forward.html?model=&type=Policy&lang=CN"
+     }
+    ],
+    "marker": "4."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "为保护您的隐私，请进行年龄检查。如果您是 <u>16</u> 岁以下的儿童，为了保护您的隐私，一般不会通过本软件/界面收集第 1 段中的上述数据，除非为您提供针对重要安全问题或满足上述第 3(1) 段所述的法律/监管要求的升级。",
+    "kind": "end",
+    "links": [],
+    "marker": ""
+   }
+  ],
+  "personal4": [
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "请参阅以下有关华硕如何保护通过此软件或界面收集的数据的详细信息：",
+    "kind": "text",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "为了更方便地管理您的华硕产品及相关服务（例如通过账号登录功能将您的华硕产品绑定到您的账号），提供华硕固件和安全升级功能、DDNS（动态域名系统，用于连接具有变动或固定IP地址的华硕产品）， 第三方的语音启动自动化和远程控制服务、配置设置的备份/传输服务、多个华硕产品的管理， 多个华硕产品的管理、华硕产品位置的映射、推送通知、6G AFC服务（仅适用于某些国家）以及评估和改进华硕服务并提高稳定性， 点击上一页的“同意”按钮，即表示您同意向华硕提供以下个人数据， 包括：此软件的登录电子邮件地址（用于账号登录功能）、IP地址、MAC地址、DDNS名称、位置信息（用于6G AFC服务，包括华硕产品和/或连接的移动设备的纬度、经度、高度、温度和气压，以及附近Wi-Fi接入点的MAC地址以定位以寻找6G信号）、FCC ID、频率， 制造国、型号名称、固件和软件模块版本、安全版本、制造日期和硬件版本、固件更新数据（例如执行方法、时间和固件更新次数）、系统状态（例如风扇、CPU、RAM、闪存和电压的使用状态）， 启动次数和时间、连接华硕产品时使用的时间/网络/LAN端口、崩溃历史记录、产品名称和代码、与华硕的安全事件次数、登录/使用状态，以及屏幕尺寸、语言设置和连接的移动设备类型（例如iOS设备）。",
+    "kind": "item",
+    "links": [],
+    "marker": "1."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "为了保护儿童的隐私，我们不会收集上述的儿童个人数据。",
+    "kind": "item",
+    "links": [],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "您也同意，为使用语音启动的自动化和远程控制服务、华硕产品的定位功能、6G AFC服务（仅在某些国家提供）和/或推送通知功能，华硕将与第三方服务提供商共享您的IP地址、MAC地址、附近Wi-Fi接入点的MAC地址、纬度、经度、高度、FCCID和频率信息，并使用SDK（软件开发工具包），详见[<a target=\"_blank\" href=\"https://www.asus.com/support/faq/1053743/\">https://www.asus.com/support/faq/1053743/</a>]。",
+    "kind": "item",
+    "links": [
+     {
+      "title": "https://www.asus.com/support/faq/1053743/",
+      "url": "https://www.asus.com/support/faq/1053743/"
+     }
+    ],
+    "marker": ""
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "如果您在前一页选择了<拒绝>或者如果您是儿童，从而阻止华硕收集上述数据，可能会导致以下后果：",
+    "kind": "item",
+    "links": [],
+    "marker": "2."
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "无法更新至最新的固件版本，无法让您的 ASUS 产品获得最新的安全保护。但是，为了保护您的 ASUS 产品的安全并确保符合法律规定，仍将自动下载并安装需要解决重要安全问题或满足法律/法规要求的升级。在此情况下，ASUS 将收集您的 IP 地址、哈希 MAC 地址、制造国家、型号名称、固件和软件模块版本以及安全版本，这是 ASUS 对与本软件/界面相关的 ASUS 产品进行这些重要升级的必要数据。",
+    "kind": "item",
+    "links": [],
+    "marker": "(1)"
+   },
+   {
+    "bold": false,
+    "depth": 1,
+    "html": "本软件/界面所列的第1段功能可能无法正常运行，因为提供这些服务需要上述第1段的数据。但华硕产品的基本功能不受影响，例如网络连接和存储在华硕产品中的本地设置。",
+    "kind": "item",
+    "links": [],
+    "marker": "(2)"
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "对于第三方名义提供的服务，请注意，您的信息可能直接由这些第三方收集。更多信息请参阅第三方发布的隐私声明。",
+    "kind": "item",
+    "links": [],
+    "marker": "3."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "如果需要使用华硕或ROG账户登录本软件或界面，请注册华硕或ROG账户，并阅读注册页面上的隐私声明。",
+    "kind": "item",
+    "links": [],
+    "marker": "4."
+   },
+   {
+    "bold": false,
+    "depth": 0,
+    "html": "华硕承诺保护和尊重您的隐私。您可以随时访问上一页提到的隐私设置页面以启用或禁用与华硕共享您的个人数据。要了解更多关于华硕如何保护您的隐私，请阅读 <a> 华硕隐私政策 </a>。",
+    "kind": "item",
+    "links": [
+     {
+      "title": "华硕隐私政策",
+      "url": "policy"
+     }
+    ],
+    "marker": "5."
+   }
+  ]
+ },
+ "source": "Asuswrt-Merlin 3006.102.5 www/js/asus_policy.js with www/CN.dict",
+ "titles": {
+  "EULA": "最终用户许可协议",
+  "PP": "ASUS 隐私声明",
+  "TM": "趋势科技（中国）有限公司最终用户许可协议",
+  "personal": "个人资料"
+ }
+}

@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+*.log
+__pycache__/
+
+# Local working records stay out of the public repository: audits, review material,
+# previous builds (device history is personal data) and internal development docs.
+audit/
+.codex/
+docs/*
+!docs/screenshots/

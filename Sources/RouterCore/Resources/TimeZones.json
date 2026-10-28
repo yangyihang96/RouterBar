@@ -1,0 +1,638 @@
+{
+  "source": "Asuswrt-Merlin 3006.102.5: www/Advanced_System_Content.asp timezones, www/CN.dict, www/ajax/tz_db.json, rc/common.c tz_list",
+  "zones": [
+    {
+      "value": "UTC12",
+      "label": "(GMT-12:00) 国际日期变更线以西",
+      "dst": false,
+      "iana": "Etc/GMT+12"
+    },
+    {
+      "value": "UTC11",
+      "label": "(GMT-11:00) 中途岛，萨摩亚群岛",
+      "dst": false,
+      "iana": "US/Samoa"
+    },
+    {
+      "value": "UTC10",
+      "label": "(GMT-10:00) 夏威夷",
+      "dst": false,
+      "iana": "US/Hawaii"
+    },
+    {
+      "value": "NAST9DST",
+      "label": "(GMT-09:00) 阿拉斯加",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "US/Alaska"
+    },
+    {
+      "value": "PST8DST",
+      "label": "(GMT-08:00) 太平洋时间 (美国和加拿大)",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "US/Pacific"
+    },
+    {
+      "value": "MST7DST_1",
+      "label": "(GMT-07:00) 山区时间 (美国和加拿大)",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "US/Mountain"
+    },
+    {
+      "value": "MST7_2",
+      "label": "(GMT-07:00) 亚历桑那",
+      "dst": false,
+      "iana": "US/Arizona"
+    },
+    {
+      "value": "MST7_3",
+      "label": "(GMT-07:00) 马札特兰",
+      "dst": false,
+      "iana": "America/Mazatlan"
+    },
+    {
+      "value": "CST6_2",
+      "label": "(GMT-06:00) 萨克其万(加拿大)",
+      "dst": false,
+      "iana": "Canada/Saskatchewan"
+    },
+    {
+      "value": "CST6_3",
+      "label": "(GMT-06:00) 瓜达拉加若，墨西哥城",
+      "dst": false,
+      "iana": "Mexico/General"
+    },
+    {
+      "value": "CST6_3_1",
+      "label": "(GMT-06:00) 蒙特利，齐骅华",
+      "dst": false,
+      "iana": "America/Monterrey"
+    },
+    {
+      "value": "UTC6DST",
+      "label": "(GMT-06:00) 中部时间 (美国和加拿大)",
+      "dst": true,
+      "iana": "US/Central"
+    },
+    {
+      "value": "EST5DST",
+      "label": "(GMT-05:00) 东部时间 (美国和加拿大)",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "US/Eastern"
+    },
+    {
+      "value": "UTC5_1",
+      "label": "(GMT-05:00) 印地安那东部",
+      "dst": false,
+      "iana": "US/East-Indiana"
+    },
+    {
+      "value": "UTC5_2",
+      "label": "(GMT-05:00) 波哥大，利马，基多",
+      "dst": false,
+      "iana": "America/Bogota"
+    },
+    {
+      "value": "AST4DST",
+      "label": "(GMT-04:00) 大西洋时间 (加拿大)",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "Canada/Atlantic"
+    },
+    {
+      "value": "UTC4_1",
+      "label": "(GMT-04:00) 拉帕兹",
+      "dst": false,
+      "iana": "America/Manaus"
+    },
+    {
+      "value": "UTC4_2",
+      "label": "(GMT-04:00) 卡拉卡斯",
+      "dst": false,
+      "iana": "America/Caracas"
+    },
+    {
+      "value": "UTC4DST_2",
+      "label": "(GMT-04:00) 圣地亚哥",
+      "dst": true,
+      "rule": "M9.1.0/0,M4.1.0/0",
+      "iana": "America/Santiago"
+    },
+    {
+      "value": "NST3.30DST",
+      "label": "(GMT-03:30) 纽芬兰",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "Canada/Newfoundland"
+    },
+    {
+      "value": "EBST3",
+      "label": "(GMT-03:00) 巴西利亚",
+      "dst": false,
+      "iana": "America/Araguaina"
+    },
+    {
+      "value": "UTC3",
+      "label": "(GMT-03:00) 布宜诺斯艾利斯，佐治敦",
+      "dst": false,
+      "iana": "America/Araguaina"
+    },
+    {
+      "value": "UTC3_1",
+      "label": "(GMT-03:00) 亚松森",
+      "dst": false
+    },
+    {
+      "value": "UTC3DST",
+      "label": "(GMT-03:00) 圣皮埃尔，密克隆",
+      "dst": true,
+      "rule": "M3.2.0/2,M11.1.0/2",
+      "iana": "America/Saint-Pierre-et-Miquelon"
+    },
+    {
+      "value": "UTC2",
+      "label": "(GMT-02:00) 南乔治亚",
+      "dst": false,
+      "iana": "Atlantic/South_Georgia"
+    },
+    {
+      "value": "UTC2DST_1",
+      "label": "(GMT-02:00) 格陵兰",
+      "dst": true,
+      "rule": "M3.5.6/23,M10.4.0/0",
+      "iana": "America/Godthab"
+    },
+    {
+      "value": "EUT1DST",
+      "label": "(GMT-01:00) 亚速尔群岛",
+      "dst": true,
+      "rule": "M3.5.0/0,M10.4.0/1",
+      "iana": "Atlantic/Azores"
+    },
+    {
+      "value": "UTC1",
+      "label": "(GMT-01:00) 维德角群岛",
+      "dst": false,
+      "iana": "Atlantic/Cape_Verde"
+    },
+    {
+      "value": "GMT0",
+      "label": "(GMT) 格林威治时间",
+      "dst": false,
+      "iana": "GMT"
+    },
+    {
+      "value": "GMT0DST_1",
+      "label": "(GMT) 都柏林，爱丁堡，里斯本，伦敦",
+      "dst": true,
+      "rule": "M3.5.0/1,M10.4.0/2",
+      "iana": "Europe/Dublin"
+    },
+    {
+      "value": "GMT0DST_2",
+      "label": "(GMT) 卡萨布兰卡",
+      "dst": true,
+      "rule": "M2.4.0/2,M3.2.0/3",
+      "iana": "Africa/Casablanca"
+    },
+    {
+      "value": "GMT0_2",
+      "label": "(GMT) 蒙罗维亚(赖比瑞亚)",
+      "dst": false,
+      "iana": "Africa/Monrovia"
+    },
+    {
+      "value": "UTC-1DST_1",
+      "label": "(GMT+01:00) 贝尔格勒，布拉提斯拉瓦，布达佩斯",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Belgrade"
+    },
+    {
+      "value": "UTC-1DST_1_1",
+      "label": "(GMT+01:00) 卢布亚那，布拉格",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Ljubljana"
+    },
+    {
+      "value": "UTC-1DST_1_2",
+      "label": "(GMT+01:00) 塞拉耶佛，斯高彼亚",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3"
+    },
+    {
+      "value": "UTC-1DST_2",
+      "label": "(GMT+01:00) 华沙，札格雷布",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Warsaw"
+    },
+    {
+      "value": "MET-1DST",
+      "label": "(GMT+01:00) 哥本哈根，斯德哥尔摩，奥斯陆",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Copenhagen"
+    },
+    {
+      "value": "MET-1DST_1",
+      "label": "(GMT+01:00) 马德里，巴黎",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Madrid"
+    },
+    {
+      "value": "MEZ-1DST",
+      "label": "(GMT+01:00) 阿姆斯特丹，柏林，布鲁塞尔",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Amsterdam"
+    },
+    {
+      "value": "MEZ-1DST_1",
+      "label": "(GMT+01:00) 罗马，维也纳，伯恩",
+      "dst": true,
+      "rule": "M3.5.0/2,M10.4.0/3",
+      "iana": "Europe/Rome"
+    },
+    {
+      "value": "UTC-1_3",
+      "label": "(GMT+01:00) 中西非",
+      "dst": false,
+      "iana": "Africa/Lagos"
+    },
+    {
+      "value": "UTC-2DST",
+      "label": "(GMT+02:00) 维尔纽斯，布加勒斯特，索非亚",
+      "dst": true,
+      "rule": "M3.5.0/3,M10.4.0/4",
+      "iana": "Europe/Vilnius"
+    },
+    {
+      "value": "UTC-2DST_3",
+      "label": "(GMT+02:00) 赫尔辛基",
+      "dst": true,
+      "rule": "M3.5.0/3,M10.4.0/4",
+      "iana": "Europe/Helsinki"
+    },
+    {
+      "value": "EST-2",
+      "label": "(GMT+02:00) 开罗",
+      "dst": false,
+      "iana": "Africa/Cairo"
+    },
+    {
+      "value": "UTC-2DST_4",
+      "label": "(GMT+02:00) 里加，塔林",
+      "dst": true,
+      "rule": "M3.5.0/3,M10.4.0/4",
+      "iana": "Europe/Riga"
+    },
+    {
+      "value": "UTC-2DST_2",
+      "label": "(GMT+02:00) 雅典",
+      "dst": true,
+      "rule": "M3.5.0/3,M10.4.0/4",
+      "iana": "Europe/Athens"
+    },
+    {
+      "value": "IST-2DST",
+      "label": "(GMT+02:00) 耶路撒冷",
+      "dst": true,
+      "rule": "M3.4.5/2,M10.4.0/2",
+      "iana": "Asia/Jerusalem"
+    },
+    {
+      "value": "EET-2DST",
+      "label": "(GMT+02:00) 基辅",
+      "dst": true,
+      "rule": "M3.5.0/3,M10.4.0/4",
+      "iana": "Europe/Kiev"
+    },
+    {
+      "value": "UTC-2_1",
+      "label": "(GMT+02:00) 加里宁格勒",
+      "dst": false,
+      "iana": "Europe/Kaliningrad"
+    },
+    {
+      "value": "SAST-2",
+      "label": "(GMT+02:00) 哈拉雷，皮托里",
+      "dst": false,
+      "iana": "Africa/Harare"
+    },
+    {
+      "value": "UTC-3_1",
+      "label": "(GMT+03:00) 科威特，里雅德",
+      "dst": false,
+      "iana": "Asia/Kuwait"
+    },
+    {
+      "value": "UTC-3_2",
+      "label": "(GMT+03:00) 奈洛比",
+      "dst": false,
+      "iana": "Africa/Nairobi"
+    },
+    {
+      "value": "UTC-3_3",
+      "label": "(GMT+03:00) 明斯克",
+      "dst": false,
+      "iana": "Europe/Minsk"
+    },
+    {
+      "value": "UTC-3_4",
+      "label": "(GMT+03:00) 莫斯科，圣彼得堡",
+      "dst": false,
+      "iana": "Europe/Moscow"
+    },
+    {
+      "value": "UTC-3_5",
+      "label": "(GMT+03:00) 伏尔加格勒",
+      "dst": false,
+      "iana": "Europe/Volgograd"
+    },
+    {
+      "value": "IST-3",
+      "label": "(GMT+03:00) 巴格达",
+      "dst": false,
+      "iana": "Asia/Baghdad"
+    },
+    {
+      "value": "UTC-3_6",
+      "label": "(GMT+03:00) 伊斯坦堡",
+      "dst": false,
+      "iana": "Asia/Istanbul"
+    },
+    {
+      "value": "UTC-3.30",
+      "label": "(GMT+03:30) 德黑兰",
+      "dst": false,
+      "iana": "Asia/Tehran"
+    },
+    {
+      "value": "UTC-4_1",
+      "label": "(GMT+04:00) 阿布达比，马斯喀特",
+      "dst": false,
+      "iana": "Asia/Muscat"
+    },
+    {
+      "value": "UTC-4_5",
+      "label": "(GMT+04:00) 伊热夫斯克，萨马拉",
+      "dst": false,
+      "iana": "Europe/Samara"
+    },
+    {
+      "value": "UTC-4_4",
+      "label": "(GMT+04:00) 第比利斯，叶里温",
+      "dst": false,
+      "iana": "Asia/Tbilisi"
+    },
+    {
+      "value": "UTC-4_6",
+      "label": "(GMT+04:00) 巴库",
+      "dst": false,
+      "iana": "Asia/Baku"
+    },
+    {
+      "value": "UTC-4.30",
+      "label": "(GMT+04:30) 喀布尔",
+      "dst": false,
+      "iana": "Asia/Kabul"
+    },
+    {
+      "value": "UTC-5",
+      "label": "(GMT+05:00) 伊斯兰马巴德，克洛奇，塔什干",
+      "dst": false,
+      "iana": "Asia/Karachi"
+    },
+    {
+      "value": "UTC-5_1",
+      "label": "(GMT+05:00) 伊卡特林堡",
+      "dst": false,
+      "iana": "Asia/Yekaterinburg"
+    },
+    {
+      "value": "UTC-5_2",
+      "label": "(GMT+05:00) 阿马提, 阿斯塔那",
+      "dst": false,
+      "iana": "Asia/Almaty"
+    },
+    {
+      "value": "UTC-5.30_2",
+      "label": "(GMT+05:30) 加尔各答，辰内",
+      "dst": false,
+      "iana": "Asia/Kolkata"
+    },
+    {
+      "value": "UTC-5.30_1",
+      "label": "(GMT+05:30) 孟拜，新德里",
+      "dst": false,
+      "iana": "Asia/Calcutta"
+    },
+    {
+      "value": "UTC-5.30",
+      "label": "(GMT+05:30) 斯里哈亚华登尼普拉",
+      "dst": false,
+      "iana": "Asia/Calcutta"
+    },
+    {
+      "value": "UTC-5.45",
+      "label": "(GMT+05:45) 加德满都",
+      "dst": false,
+      "iana": "Asia/Kathmandu"
+    },
+    {
+      "value": "UTC-6",
+      "label": "(GMT+06:00) 达卡",
+      "dst": false,
+      "iana": "Asia/Dhaka"
+    },
+    {
+      "value": "UTC-6.30",
+      "label": "(GMT+06:30) 仰光",
+      "dst": false,
+      "iana": "Asia/Yangon"
+    },
+    {
+      "value": "UTC-7",
+      "label": "(GMT+07:00) 曼谷，河内，雅加达",
+      "dst": false,
+      "iana": "Asia/Bangkok"
+    },
+    {
+      "value": "UTC-7_2",
+      "label": "(GMT+07:00) 克拉斯诺亚尔斯克",
+      "dst": false,
+      "iana": "Asia/Krasnoyarsk"
+    },
+    {
+      "value": "UTC-7_3",
+      "label": "(GMT+07:00) 新西伯利亚",
+      "dst": false
+    },
+    {
+      "value": "CST-8",
+      "label": "(GMT+08:00) 北京，香港",
+      "dst": false,
+      "iana": "Asia/Shanghai"
+    },
+    {
+      "value": "CST-8_1",
+      "label": "(GMT+08:00) 重庆，乌鲁木齐",
+      "dst": false,
+      "iana": "Asia/Chongqing"
+    },
+    {
+      "value": "SST-8",
+      "label": "(GMT+08:00) 吉隆坡，新加坡",
+      "dst": false,
+      "iana": "Asia/Kuala_Lumpur"
+    },
+    {
+      "value": "CCT-8",
+      "label": "(GMT+08:00) 台北",
+      "dst": false,
+      "iana": "Asia/Taipei"
+    },
+    {
+      "value": "WAS-8",
+      "label": "(GMT+08:00) 伯斯",
+      "dst": false,
+      "iana": "Australia/Perth"
+    },
+    {
+      "value": "UTC-8",
+      "label": "(GMT+08:00) 乌兰巴图",
+      "dst": false,
+      "iana": "Asia/Irkutsk"
+    },
+    {
+      "value": "UTC-8_1",
+      "label": "(GMT+08:00) 伊尔库次克",
+      "dst": false,
+      "iana": "Asia/Irkutsk"
+    },
+    {
+      "value": "UTC-9_1",
+      "label": "(GMT+09:00) 首尔",
+      "dst": false,
+      "iana": "Asia/Seoul"
+    },
+    {
+      "value": "UTC-9_3",
+      "label": "(GMT+09:00) 亚库兹克",
+      "dst": false,
+      "iana": "Asia/Yakutsk"
+    },
+    {
+      "value": "JST-9",
+      "label": "(GMT+09:00) 大阪，北海道，东京",
+      "dst": false,
+      "iana": "Asia/Tokyo"
+    },
+    {
+      "value": "CST-9.30",
+      "label": "(GMT+09:30) 达尔文",
+      "dst": false,
+      "iana": "Australia/Darwin"
+    },
+    {
+      "value": "UTC-9.30DST",
+      "label": "(GMT+09:30) 爱德兰",
+      "dst": true,
+      "rule": "M10.1.0/2,M4.1.0/3",
+      "iana": "Australia/Adelaide"
+    },
+    {
+      "value": "UTC-10DST_1",
+      "label": "(GMT+10:00) 堪培拉，墨尔本，雪梨",
+      "dst": true,
+      "rule": "M10.1.0/2,M4.1.0/3",
+      "iana": "Australia/Canberra"
+    },
+    {
+      "value": "UTC-10_2",
+      "label": "(GMT+10:00) 布里斯本",
+      "dst": false,
+      "iana": "Australia/Brisbane"
+    },
+    {
+      "value": "UTC-10_4",
+      "label": "(GMT+10:00) 海参崴",
+      "dst": false,
+      "iana": "Asia/Vladivostok"
+    },
+    {
+      "value": "TST-10TDT",
+      "label": "(GMT+10:00) 霍巴特",
+      "dst": true,
+      "rule": "M10.1.0/2,M4.1.0/3",
+      "iana": "Australia/Hobart"
+    },
+    {
+      "value": "UTC-10_6",
+      "label": "(GMT+10:00) 关岛，穆尔斯贝港",
+      "dst": false,
+      "iana": "Pacific/Guam"
+    },
+    {
+      "value": "UTC-11",
+      "label": "(GMT+11:00) 所罗门群岛",
+      "dst": false,
+      "iana": "Pacific/Noumea"
+    },
+    {
+      "value": "UTC-11_1",
+      "label": "(GMT+11:00) 新卡伦多尼亚",
+      "dst": false,
+      "iana": "Pacific/Noumea"
+    },
+    {
+      "value": "UTC-11_3",
+      "label": "(GMT+11:00) 乔库尔达赫，科雷姆斯克",
+      "dst": false,
+      "iana": "Asia/Srednekolymsk"
+    },
+    {
+      "value": "UTC-11_4",
+      "label": "(GMT+11:00) 马加丹",
+      "dst": false,
+      "iana": "Asia/Magadan"
+    },
+    {
+      "value": "UTC-12",
+      "label": "(GMT+12:00) 马歇尔群岛",
+      "dst": false,
+      "iana": "Pacific/Majuro"
+    },
+    {
+      "value": "UTC-12_3",
+      "label": "(GMT+12:00) 斐济",
+      "dst": false,
+      "iana": "Pacific/Fiji"
+    },
+    {
+      "value": "UTC-12_2",
+      "label": "(GMT+12:00) 阿纳德尔，堪察加彼得罗巴甫洛夫斯克",
+      "dst": false,
+      "iana": "Asia/Anadyr"
+    },
+    {
+      "value": "NZST-12DST",
+      "label": "(GMT+12:00) 奥克兰，威灵顿",
+      "dst": true,
+      "rule": "M9.5.0/2,M4.1.0/3",
+      "iana": "Pacific/Auckland"
+    },
+    {
+      "value": "UTC-13",
+      "label": "(GMT+13:00) 努瓜娄发",
+      "dst": false,
+      "iana": "Pacific/Tongatapu"
+    }
+  ]
+}
